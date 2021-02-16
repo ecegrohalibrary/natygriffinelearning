@@ -1,0 +1,29 @@
+body{
+    background-color:teal;
+color: white;
+}
+button {
+  font-family: cursive;
+    color: white;
+   margin-left: 20px;
+      padding: 10px 20px;
+      background-color: rgba(0, 136,169,1);
+      border: none;
+      border-radius: 50px;
+      cursor: pointer; ;
+      transition:all 0.3s ease 0s ;
+  }
+  H1{
+    color: white;
+    font-family: cursive;
+    font-size: 30px;
+    font-weight: 100;
+    text-align: left;
+    text-indent: 30px;
+    background-color:silver;
+  }
+  P {
+    font-size: 22px;
+    color: white;
+    background-color: olivedrab;
+  }
